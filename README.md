@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
+        <h1>RAJEEV KUMAR </h1>
         <p>Digital Marketing Expert</p>
     </header>
     <nav>
@@ -95,21 +95,21 @@ You can click the Preview link to take a look at your changes.
         <section id="testimonials">
             <h2>Testimonials</h2>
             <blockquote>
-                <p>"[Your Name] transformed our online presence and drove significant traffic to our website. Highly recommend!" - Client A</p>
+                <p>"RAJEEV KUMAR transformed our online presence and drove significant traffic to our website. Highly recommend!" - Client A</p>
             </blockquote>
             <blockquote>
-                <p>"Professional and effective. [Your Name]'s strategies resulted in a 50% increase in our conversion rates." - Client B</p>
+                <p>"Professional and effective. RAJEEV KUMAR's strategies resulted in a 50% increase in our conversion rates." - Client B</p>
             </blockquote>
         </section>
         <section id="contact">
-            <h2>Contact</h2>
-            <p>Email: <a href="mailto:yourname@example.com">yourname@example.com</a></p>
+            <h2>Contact8219657255</h2>
+            <p>Email: <a href="mailto:rajeevkapoor57255@gmail.com">rajeevkapoor57255@gmail.com</a></p>
             <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a></p>
             <p>Twitter: <a href="https://www.twitter.com/yourprofile">twitter.com/yourprofile</a></p>
         </section>
     </div>
     <footer>
-        <p>&copy; 2024 Your Name. All Rights Reserved.</p>
+        <p>&copy; 2024 RAJEEV KUMAR . All Rights Reserved.</p>
     </footer>
 </body>
 </html>
